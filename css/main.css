@@ -1,3 +1,7 @@
+.hidden {
+    display: none;
+}
+
 #hero-con-full {
     display: none;
 }

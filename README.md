@@ -1,14 +1,31 @@
-# Resposive FIP Prototype
+# RESPONSIVE FIP PROTOTYPE - MOBILE FIRST :: MMED-1056
 
-Resposible prototype design for screen sizes from phone to tablet and desktop resolutions
+This is the groundwork for the FIP Orbitz rebrand. All pages have now been refactored to comply with web responsive standards and have been optimized for mobile devices.
+
+## Installation
+
+TODO: Describe the installation process
+
+## Usage
+
+TODO: Write usage instructions
+
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
 
 ## History
 
-Resposible website is designed with the user in mind, taking into account their needs and abilities. It should be easy to navigate, readable, and work well on a variety of devices. Security and privacy should also be a top priority. A responsible website should avoid discriminatory language or content, and respect the user's data and privacy. By creating a responsible website, you can build trust with your users and ensure a positive online experience.
+TODO: Write history
+
 ## Credits
 
-Rodrigo Freitas, Tiago Witt
+Rodrigo Rocha de Freitas and Tiago Witt
 
 ## License
 
-TODO: Write license
+MIT

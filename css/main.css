@@ -2,9 +2,15 @@
     display: none;
 }
 
+#contact-text {
+    display: none;
+}
 
 @media screen and (min-width: 768px){
     #hero-con-full{
+        display: block;
+    }
+    #contact-text {
         display: block;
     }
 }

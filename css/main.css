@@ -1,6 +1,15 @@
+#hero-con-full {
+    display: none;
+}
+
+
 @media screen and (min-width: 768px){
-    #main-logo{
-    order: -1;
+    #hero-con-full{
+        display: block;
     }
 }
 
+
+#main-logo{
+    order: -1;
+}
